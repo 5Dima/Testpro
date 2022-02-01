@@ -10,6 +10,19 @@ public:
 
 };
 
+
+
+class point_2 {
+	int x, y;
+public:
+	void print() {
+		cout << x;
+		cout <<endl<< y;
+	}
+
+
+};
+
 int main() {
 
 
