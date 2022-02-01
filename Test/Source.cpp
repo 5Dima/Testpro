@@ -19,7 +19,11 @@ public:
 		cout << x;
 		cout <<endl<< y;
 	}
+	void set() {
 
+		cin >> x;
+		(cin >> y).get();
+	}
 
 };
 
