@@ -4,6 +4,7 @@ using namespace std;
 
 
 class point {
+	int x, y;
 public:
 
 
